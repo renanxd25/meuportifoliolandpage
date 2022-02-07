@@ -1,20 +1,16 @@
-header{
-    width: 1024px;
-    margin: 30px auto;
-    display: flex;
-    flex-direction: row;
+header section {
     justify-content: space-between;
     align-items: center;
 }
 
-header nav ul {
+header  section nav ul {
     display: flex;
     flex-direction: row;
     list-style: none;
     align-items: center;
 }
 
-header nav ul li a{
+header  section nav ul li a{
     margin: 0 15px;
     color: #3399cc;
 }

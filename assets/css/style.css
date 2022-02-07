@@ -7,8 +7,21 @@
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: inherit;
     vertical-align: baseline;
     text-decoration: none;
     font-family: "Source Sans Pro", sans-serif;
+    justify-content: space-between;
+}
+
+.container{
+    width: 1024px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
 }
