@@ -2,6 +2,7 @@
 @import url("./header.css");
 @import url("./buttons.css");
 @import url("./main.css");
+@import url("./footer.css");
 
 *{
     margin: 0;
@@ -13,6 +14,7 @@
     font-family: "Source Sans Pro", sans-serif;
     justify-content: space-between;
     font-weight: 300;
+    list-style: none;
 
 }
 
@@ -27,4 +29,10 @@
     flex-direction: row;
     justify-content: space-between;
 
+}
+
+body{
+    background-image: url("../images/bolha-background.png");
+    background-repeat: no-repeat;
+    background-position: left center;
 }
