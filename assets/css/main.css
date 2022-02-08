@@ -13,16 +13,20 @@
     color: #333366;
 }
 
+.sobre-web-desingn article h2,
+.sobre-web-desingn article p {
+    color: #3399cc;
+}
+
 .sobre-web-desingn article h2{
     font-size: 30px;
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 200%;
-    color: #3399cc;
+   
 }
 
 .sobre-web-desingn article p{
-    color: #3399cc;
     margin-top: 10px 0 40px;
     margin-bottom: 30px;
     width: 400px;
