@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    font-family: "Source Sans Pro", sans-serif;
+    justify-content: space-between;
+    font-weight: 300;
+    list-style: none;
+
+}
+
+.container{
+    width: 1024px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+body{
+    background-image: url("../images/bolha-background.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
